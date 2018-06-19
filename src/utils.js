@@ -1,10 +1,10 @@
 export default class Utils {
-  static loading(state) {
+  static loading(state, reqAnimation) {
     return new Promise((resolve, reject) => {
       setTimeout(() => {
           console.log("Resolved");
-          resolve(!state)
-      }, 5000);
+          resolve(true)
+      }, 1000);
     });
   }
 };
