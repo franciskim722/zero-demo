@@ -2,7 +2,7 @@
   "name": "zero-demo",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://franciskim722.github.com/zero-demo",
+  "homepage": "http://franciskim722.github.io/zero-demo",
   "dependencies": {
     "gh-pages": "^1.2.0",
     "gsap": "^2.0.1",
