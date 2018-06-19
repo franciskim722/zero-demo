@@ -13,7 +13,7 @@ body,
 @media only screen 
 and (min-width : 320px) {
   .app {
-    font-size: 18px;
+    font-size: 14px;
   }
   .zero-text-container {
     padding: 0 10%;
