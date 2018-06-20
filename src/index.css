@@ -16,25 +16,25 @@ and (min-width : 320px) {
     font-size: 14px;
   }
   .zero-text-container {
-    padding: 0 10%;
+    padding: 0 15%;
   }
 }
 
 @media only screen 
 and (min-width : 600px) {
   .app {
-    font-size: 20px;
+    font-size: 18px;
   }
 
   .zero-text-container {
-    padding: 0 15%;
+    padding: 0 17.5%;
   }
 }
 
 @media only screen
 and (min-width: 1020px) {
   .app {
-    font-size: 28px;
+    font-size: 24px;
   }
 
   .zero-text-container {
@@ -44,6 +44,17 @@ and (min-width: 1020px) {
 
 @media only screen
 and (min-width: 1200px) {
+  .app {
+    font-size: 26px;
+  }
+
+  .zero-text-container {
+    padding: 0 22.5%;
+  }
+}
+
+@media only screen
+and (min-width: 1400px) {
   .app {
     font-size: 30px;
   }
